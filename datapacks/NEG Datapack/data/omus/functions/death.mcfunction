@@ -1,0 +1,1 @@
+execute at @s[gamemode=adventure] if block ~ ~-1 ~ black_concrete run gamemode spectator @s

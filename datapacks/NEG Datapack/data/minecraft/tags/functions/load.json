@@ -1,0 +1,9 @@
+{
+    "values": [
+    "echoloc:init",
+    "main:init",
+    "omus:init",
+    "gspleef:init",
+    "parkour:init"
+]
+}
