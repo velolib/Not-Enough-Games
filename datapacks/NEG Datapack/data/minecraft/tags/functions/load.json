@@ -4,6 +4,7 @@
     "main:init",
     "omus:init",
     "gspleef:init",
-    "parkour:init"
+    "parkour:init",
+    "block:init"
 ]
 }

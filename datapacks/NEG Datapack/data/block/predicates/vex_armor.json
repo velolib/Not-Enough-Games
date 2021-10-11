@@ -1,0 +1,42 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "equipment": {
+        "chest": {
+          "items": [
+            "minecraft:diamond_chestplate"
+          ],
+          "enchantments": [
+            {
+              "enchantment": "minecraft:protection",
+              "levels": 3
+            }
+          ]
+        },
+        "legs": {
+          "items": [
+            "minecraft:iron_leggings"
+          ],
+          "enchantments": [
+            {
+              "enchantment": "minecraft:protection",
+              "levels": 3
+            }
+          ]
+        },
+        "feet": {
+          "items": [
+            "minecraft:diamond_boots"
+          ],
+          "enchantments": [
+            {
+              "enchantment": "minecraft:protection",
+              "levels": 4
+            }
+          ]
+        }
+      }
+    }
+  }
+  

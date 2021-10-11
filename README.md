@@ -1,2 +1,1 @@
-# Not-Enough-Games
- Minecraft Minigames made by VeloLib
+Empty for now

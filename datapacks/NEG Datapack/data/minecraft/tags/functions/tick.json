@@ -3,6 +3,7 @@
     "echoloc:tick",
     "omus:tick",
     "gspleef:tick",
-    "parkour:tick"
+    "parkour:tick",
+    "block:tick"
 ]
 }
