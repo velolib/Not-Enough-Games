@@ -151,9 +151,3 @@ If you'd like to contribute do at your own risk and start a pull request!
 You can contact me at:
 - Discord: velo#9631
 - E-mail: vlocitize@gmail.com
-## ✏️ Contributors
-- [WN3S](https://www.instagram.com/aby.cccc/) (Builder)
-- speedwave37 (Builder)
-- [Outrowed](https://github.com/outrowed) (Coding)
-
-If you'd like to contribute just open a pull request.
