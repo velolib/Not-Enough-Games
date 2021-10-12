@@ -5,23 +5,6 @@
 <h3 align="center"> Minecraft Minigames by velolib </h3>  
 
 
-
-<details open="open">
-<summary>Table of Contents</summary>
-
-1. [➤ Installation](https://github.com/velolib/Not-Enough-Games#%EF%B8%8F-installation)
-2. [➤ Minigames](https://github.com/velolib/Not-Enough-Games#-minigames)
-   - [➤ Block Battle](https://github.com/velolib/Not-Enough-Games#%EF%B8%8F-block-battle)
-   - [➤ Parcourse](https://github.com/velolib/Not-Enough-Games#-parcourse)
-   - [➤ Gravity Spleef](https://github.com/velolib/Not-Enough-Games#%EF%B8%8F-gravity-spleef)
-   - [➤ Omus](https://github.com/velolib/Not-Enough-Games#-omus)
-   - [➤ Echolocation](https://github.com/velolib/Not-Enough-Games#-echolocation)
-  3. [➤ Notes](https://github.com/velolib/Not-Enough-Games#-notes)
-  4. [➤ Contributing](https://github.com/velolib/Not-Enough-Games#%EF%B8%8F-contributing)
-  5. [➤ Contact]()
-
-</details>
-
 ![line](https://raw.githubusercontent.com/velolib/Not-Enough-Games/main/images/lines/rainbow.png)
 
 ## ⬇️ Installation
@@ -82,11 +65,11 @@ Minecraft Spleef but the gravity flips every 30 seconds. Last one standing wins.
 ```
 2. Start the game
 ```
-/function gspleef:start
+/function spleef:start
 ```
 3. Once the winning criteria has been met, stop the game and teleport all players into the lobby
 ```
-/function gspleef:stop
+/function spleef:stop
 /function main:spawn
 ```
 
@@ -124,23 +107,13 @@ Sound-based PvP one in the chamber where you can barely see the environment arou
 /function main:spawn
 ```
 ![line](https://raw.githubusercontent.com/velolib/Not-Enough-Games/main/images/lines/rainbow.png)
-## 🎵 Notes
+## 🎵 Creator's Notes
 - Don't leave the server/world if you haven't run the `/function [minigame]:stop` function.
 - Try not to kill other people in situations where you're not supposed to. (disabling pvp hasn't been implemented)
 - If there are any issues please try to replicate it before making an issue post.
 
 ![line](https://raw.githubusercontent.com/velolib/Not-Enough-Games/main/images/lines/rainbow.png)
-## ✏️ Contributing
-Current contributors:
+## ✏️ Contributors
 - [WN3S](https://www.instagram.com/aby.cccc/) (Builder)
 - speedwave37 (Builder)
 - [Outrowed](https://github.com/outrowed) (Coding)
-
-If you'd like to contribute do at your own risk and start a pull request!
-
-![line](https://raw.githubusercontent.com/velolib/Not-Enough-Games/main/images/lines/rainbow.png)
-
-## 📞 Contact
-You can contact me at:
-- Discord: velo#9631
-- E-mail: vlocitize@gmail.com
