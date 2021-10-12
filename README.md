@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"> 
   <img src="https://github.com/velolib/Not-Enough-Games/blob/main/images/logos/altgif.gif?raw=true" alt="Not Enough Games Logo" width="480" height="480">
 </p>
@@ -117,3 +118,6 @@ Sound-based PvP one in the chamber where you can barely see the environment arou
 - [WN3S](https://www.instagram.com/aby.cccc/) (Builder)
 - speedwave37 (Builder)
 - [Outrowed](https://github.com/outrowed) (Coding)
+=======
+Empty for now
+>>>>>>> parent of bdaf880 (Readme.MD update)
