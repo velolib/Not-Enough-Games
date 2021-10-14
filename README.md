@@ -36,6 +36,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/velolib/Not-Enough-Games/main/images/lines/rainbow.png" alt="Line"/>
 </p>
+
 ## 📝 Minigames
 Currently there are 5 added minigames, which are explained (unthoroughly) below.
 ### ⚔️ Block Battle
