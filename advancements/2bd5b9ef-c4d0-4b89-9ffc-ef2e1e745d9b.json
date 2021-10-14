@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2021-10-12 19:35:10 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2021-06-29 18:57:29 +0700"
@@ -8,6 +14,12 @@
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2021-06-30 09:16:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": "2021-10-12 19:51:50 +0700"
     },
     "done": true
   },
@@ -26,6 +38,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-06-30 10:05:47 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2021-10-12 19:35:10 +0700"
     },
     "done": true
   },
@@ -56,6 +74,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2021-06-29 19:02:34 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2021-10-13 08:50:40 +0700"
     },
     "done": true
   },
@@ -203,6 +227,12 @@
     },
     "done": true
   },
+  "challenges:gspleef": {
+    "criteria": {
+      "requirement": "2021-10-14 07:12:21 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2021-06-29 18:57:29 +0700"
@@ -242,6 +272,12 @@
   "minecraft:recipes/building_blocks/red_sandstone_stairs": {
     "criteria": {
       "has_cut_red_sandstone": "2021-06-30 09:29:56 +0700"
+    },
+    "done": true
+  },
+  "challenges:general": {
+    "criteria": {
+      "requirement": "2021-10-14 07:12:21 +0700"
     },
     "done": true
   },
@@ -473,6 +509,12 @@
     },
     "done": true
   },
+  "challenges:blockbattle/starve": {
+    "criteria": {
+      "impossible": "2021-10-14 07:15:41 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-06-30 09:16:31 +0700"
@@ -508,6 +550,12 @@
       "has_planks": "2021-06-30 11:21:07 +0700"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2021-10-12 19:51:50 +0700"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
@@ -623,9 +671,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2021-10-13 08:50:00 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2021-06-30 09:40:04 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2021-10-12 19:47:18 +0700"
     },
     "done": true
   },
@@ -743,6 +803,18 @@
     },
     "done": true
   },
+  "challenges:echolocation": {
+    "criteria": {
+      "requirement": "2021-10-14 07:12:21 +0700"
+    },
+    "done": true
+  },
+  "challenges:blockbattle": {
+    "criteria": {
+      "requirement": "2021-10-14 07:12:21 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_cut_copper": {
     "criteria": {
       "has_waxed_copper_block": "2021-06-30 09:23:39 +0700"
@@ -821,9 +893,21 @@
     },
     "done": true
   },
+  "challenges:root": {
+    "criteria": {
+      "requirement": "2021-10-14 07:12:21 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2021-06-30 10:22:45 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2021-10-12 19:35:10 +0700"
     },
     "done": true
   },
@@ -842,6 +926,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2021-06-29 19:02:34 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2021-10-12 19:51:59 +0700"
     },
     "done": true
   },
@@ -896,6 +986,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2021-06-30 09:24:51 +0700"
+    },
+    "done": true
+  },
+  "challenges:parcourse": {
+    "criteria": {
+      "requirement": "2021-10-14 07:12:21 +0700"
     },
     "done": true
   },
@@ -971,6 +1067,45 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:blaze": "2021-10-12 19:38:46 +0700",
+      "minecraft:pillager": "2021-10-12 19:38:46 +0700",
+      "minecraft:skeleton": "2021-10-12 19:38:46 +0700",
+      "minecraft:elder_guardian": "2021-10-12 19:38:46 +0700",
+      "minecraft:zoglin": "2021-10-12 19:38:46 +0700",
+      "minecraft:ravager": "2021-10-12 19:38:46 +0700",
+      "minecraft:ghast": "2021-10-12 19:38:46 +0700",
+      "minecraft:hoglin": "2021-10-12 19:38:46 +0700",
+      "minecraft:guardian": "2021-10-12 19:38:46 +0700",
+      "minecraft:vindicator": "2021-10-12 19:38:46 +0700",
+      "minecraft:magma_cube": "2021-10-12 19:38:46 +0700",
+      "minecraft:piglin_brute": "2021-10-12 19:38:46 +0700",
+      "minecraft:spider": "2021-10-12 19:38:46 +0700",
+      "minecraft:creeper": "2021-10-12 19:38:46 +0700",
+      "minecraft:wither": "2021-10-12 19:38:46 +0700",
+      "minecraft:evoker": "2021-10-12 19:38:46 +0700",
+      "minecraft:slime": "2021-10-12 19:38:46 +0700",
+      "minecraft:phantom": "2021-10-12 19:38:46 +0700",
+      "minecraft:zombified_piglin": "2021-10-12 19:38:46 +0700",
+      "minecraft:witch": "2021-10-12 19:38:46 +0700",
+      "minecraft:wither_skeleton": "2021-10-12 19:38:46 +0700",
+      "minecraft:husk": "2021-10-12 19:38:46 +0700",
+      "minecraft:ender_dragon": "2021-10-12 19:38:46 +0700",
+      "minecraft:shulker": "2021-10-12 19:38:46 +0700",
+      "minecraft:cave_spider": "2021-10-12 19:38:46 +0700",
+      "minecraft:piglin": "2021-10-12 19:38:46 +0700",
+      "minecraft:enderman": "2021-10-12 19:38:46 +0700",
+      "minecraft:silverfish": "2021-10-12 19:38:46 +0700",
+      "minecraft:stray": "2021-10-12 19:38:46 +0700",
+      "minecraft:endermite": "2021-10-12 19:38:46 +0700",
+      "minecraft:vex": "2021-10-12 19:38:46 +0700",
+      "minecraft:zombie": "2021-10-12 19:38:46 +0700",
+      "minecraft:drowned": "2021-10-12 19:38:46 +0700",
+      "minecraft:zombie_villager": "2021-10-12 19:38:46 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2021-06-29 19:02:34 +0700"
@@ -1043,6 +1178,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2021-10-13 08:50:00 +0700"
+    },
+    "done": true
+  },
+  "challenges:omus": {
+    "criteria": {
+      "requirement": "2021-10-14 07:12:21 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2021-06-29 19:02:34 +0700"
@@ -1073,6 +1220,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2021-10-12 19:48:30 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab": {
     "criteria": {
       "has_cut_sandstone": "2021-06-30 09:16:55 +0700"
@@ -1088,6 +1241,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-06-30 09:16:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2021-10-12 19:35:10 +0700"
     },
     "done": true
   },

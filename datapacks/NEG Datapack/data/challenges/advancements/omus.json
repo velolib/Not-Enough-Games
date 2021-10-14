@@ -1,0 +1,27 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:pufferfish"
+      },
+      "title": {
+        "text": "Omus",
+        "color": "blue",
+        "bold": true
+      },
+      "description": {
+        "text": "Knock them all off!",
+        "color": "green"
+      },
+      "frame": "goal",
+      "show_toast": false,
+      "announce_to_chat": false,
+      "hidden": false
+    },
+    "parent": "challenges:root",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:tick"
+      }
+    }
+  }
+      

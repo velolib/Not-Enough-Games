@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:grass_block"
+    },
+    "title": {
+      "text": "Parcourse",
+      "color": "red",
+      "bold": true
+    },
+    "description": {
+      "text": "Climb ",
+      "color": "green",
+      "extra": [
+        {
+          "text": "Celeste Mountain",
+          "color": "green",
+          "strikethrough": true
+        }
+      ]
+    },
+    "frame": "goal",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "challenges:root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

@@ -5,6 +5,7 @@
     "omus:init",
     "gspleef:init",
     "parkour:init",
-    "block:init"
+    "block:init",
+    "challenges:init"
 ]
 }

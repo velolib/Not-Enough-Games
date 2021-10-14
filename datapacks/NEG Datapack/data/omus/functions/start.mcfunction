@@ -5,6 +5,7 @@ gamemode adventure @a
 fill 578 100 7 598 94 27 white_stained_glass hollow
 tp @a 588 97 17
 bossbar set omus:title visible true
+effect give @a regeneration 20 255 true
 
 
 schedule function main:countdown/5 15s

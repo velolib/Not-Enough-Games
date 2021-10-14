@@ -1,7 +1,25 @@
 {
+  "challenges:root": {
+    "criteria": {
+      "requirement": "2021-10-12 19:47:23 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2021-06-28 08:37:10 +0700"
+    },
+    "done": true
+  },
+  "challenges:parcourse": {
+    "criteria": {
+      "requirement": "2021-10-12 19:47:23 +0700"
+    },
+    "done": true
+  },
+  "challenges:gspleef": {
+    "criteria": {
+      "requirement": "2021-10-12 19:47:23 +0700"
     },
     "done": true
   },
@@ -11,5 +29,35 @@
     },
     "done": true
   },
-  "DataVersion": 2724
+  "challenges:echolocation": {
+    "criteria": {
+      "requirement": "2021-10-12 19:47:23 +0700"
+    },
+    "done": true
+  },
+  "challenges:blockbattle": {
+    "criteria": {
+      "requirement": "2021-10-12 19:47:23 +0700"
+    },
+    "done": true
+  },
+  "challenges:omus": {
+    "criteria": {
+      "requirement": "2021-10-12 19:47:23 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2021-10-13 08:49:22 +0700"
+    },
+    "done": false
+  },
+  "challenges:general": {
+    "criteria": {
+      "requirement": "2021-10-13 08:39:03 +0700"
+    },
+    "done": true
+  },
+  "DataVersion": 2730
 }

@@ -5,10 +5,11 @@ scoreboard players set gravityIdent gravityIdent 0
 scoreboard players set spleefGravity spleefGravity 0
 setblock -430 59 -21 redstone_block
 execute as @a at @s run attribute @s generic.knockback_resistance base set 500
-
+    
 fill -406 94 3 -402 90 7 barrier hollow
 tp @a -404 92.25 5
 bossbar set spleef:title visible true
+effect give @a regeneration 20 255 true
 
 schedule function main:countdown/5 15s
 schedule function main:countdown/4 16s

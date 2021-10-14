@@ -1,0 +1,33 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:netherite_sword",
+        "nbt": "{Enchantments:[{id:\"protection\",lvl:1}]}"
+      },
+      "title": {
+        "text": "Negentropy",
+        "color": "dark_red",
+        "bold": true
+      },
+      "description": {
+        "text": "Kill 10 players",
+        "color": "green",
+        "bold": false
+      },
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "challenges:blockbattle",
+    "criteria": {
+      "impossible": {
+        "trigger": "minecraft:impossible"
+      }
+    },
+    "requirements": [
+      [
+        "impossible"
+      ]
+    ]
+  }
+  

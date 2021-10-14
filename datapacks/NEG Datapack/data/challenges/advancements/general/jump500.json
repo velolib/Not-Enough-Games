@@ -1,0 +1,33 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:rabbit_foot"
+      },
+      "title": {
+        "text": "Jump Prince",
+        "color": "dark_purple",
+        "bold": true
+      },
+      "description": {
+        "text": "Jump 500 times",
+        "color": "green",
+        "bold": false
+      },
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "challenges:general",
+    "criteria": {
+      "impossible": {
+        "trigger": "minecraft:impossible"
+      }
+    },
+    "requirements": [
+      [
+        "impossible"
+      ]
+    ]
+  }
+  

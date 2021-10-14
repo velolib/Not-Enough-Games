@@ -5,6 +5,7 @@ scoreboard players set @a echolocKills 0
 scoreboard players set @a echolocDeath 0
 spawnpoint @a -25 46 575
 bossbar set echoloc:title visible true
+effect give @a regeneration 10 255 true
 
 schedule function main:countdown/5 5s
 schedule function main:countdown/4 6s

@@ -1,0 +1,32 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:bell"
+      },
+      "title": {
+        "text": "Ear-shattering!",
+        "color": "yellow",
+        "bold": true
+      },
+      "description": {
+        "text": "Ring the bell 200 times",
+        "color": "green",
+        "bold": false
+      },
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "challenges:blockbattle",
+    "criteria": {
+      "impossible": {
+        "trigger": "minecraft:impossible"
+      }
+    },
+    "requirements": [
+      [
+        "impossible"
+      ]
+    ]
+  }
+  

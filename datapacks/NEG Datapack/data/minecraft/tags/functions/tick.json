@@ -4,6 +4,7 @@
     "omus:tick",
     "gspleef:tick",
     "parkour:tick",
-    "block:tick"
+    "block:tick",
+    "challenges:tick"
 ]
 }

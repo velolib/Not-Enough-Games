@@ -1,0 +1,34 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:crossbow",
+        "nbt": "{Enchantments:[{id:\"protection\",lvl:1}]}"
+      },
+      "title": {
+        "text": "It's not a gun",
+        "color": "gold",
+        "bold": true
+      },
+      "description": {
+        "text": "Use a crossbow 500 times",
+        "color": "green",
+        "bold": false
+      },
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false,
+      "frame": "challenge"
+    },
+    "parent": "challenges:blockbattle",
+    "criteria": {
+      "impossible": {
+        "trigger": "minecraft:impossible"
+      }
+    },
+    "requirements": [
+      [
+        "impossible"
+      ]
+    ]
+  }
+  
