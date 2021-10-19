@@ -21,10 +21,16 @@
   3. [➤ Contact]()
 
 </details>
-
-![line](https://raw.githubusercontent.com/velolib/Not-Enough-Games/main/images/lines/rainbow.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/velolib/Not-Enough-Games/main/images/lines/rainbow.png" alt="Line"/>
+</p>
 
 ## ⬇️ Installation
+Required Programs:
+- Minecraft
+- File compression program (7zip, WinRAR, WinZip)
+
+Installation:
 1. Go to your Minecraft directory. (Press ❖ Win + R and type in %appdata%)
 2. Go to `.minecraft\saves`.
 3. Download the `.zip` from the [Releases](https://github.com/velolib/Not-Enough-Games/releases) tab.
@@ -32,7 +38,10 @@
 5. Right click and click **Extract Here**.
 6. You can now open the world in Minecraft.
 
-![line](https://raw.githubusercontent.com/velolib/Not-Enough-Games/main/images/lines/rainbow.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/velolib/Not-Enough-Games/main/images/lines/rainbow.png" alt="Line"/>
+</p>
+
 ## 📝 Minigames
 Currently there are 5 added minigames, which are explained (unthoroughly) below.
 ### ⚔️ Block Battle
@@ -128,14 +137,18 @@ Sound-based PvP one in the chamber where you can barely see the environment arou
 /function echoloc:stop
 /function main:spawn
 ```
-![line](https://raw.githubusercontent.com/velolib/Not-Enough-Games/main/images/lines/rainbow.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/velolib/Not-Enough-Games/main/images/lines/rainbow.png" alt="Line"/>
+</p>
 
 ## 🎵 Notes
 - Don't leave the server/world if you haven't run the `/function [minigame]:stop` function.
 - Try not to kill other people in situations where you're not supposed to. (disabling pvp hasn't been implemented)
 - If there are any issues please try to replicate it before making an issue post.
 
-![line](https://raw.githubusercontent.com/velolib/Not-Enough-Games/main/images/lines/rainbow.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/velolib/Not-Enough-Games/main/images/lines/rainbow.png" alt="Line"/>
+</p>
 
 ## ✏️ Contributing
 Current contributors:
@@ -145,15 +158,11 @@ Current contributors:
 
 If you'd like to contribute do at your own risk and start a pull request!
 
-![line](https://raw.githubusercontent.com/velolib/Not-Enough-Games/main/images/lines/rainbow.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/velolib/Not-Enough-Games/main/images/lines/rainbow.png" alt="Line"/>
+</p>
 
 ## 📞 Contact
 You can contact me at:
 - Discord: velo#9631
 - E-mail: vlocitize@gmail.com
-## ✏️ Contributors
-- [WN3S](https://www.instagram.com/aby.cccc/) (Builder)
-- speedwave37 (Builder)
-- [Outrowed](https://github.com/outrowed) (Coding)
-
-If you'd like to contribute just open a pull request.
