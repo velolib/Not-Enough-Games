@@ -5,6 +5,7 @@
     "gspleef:tick",
     "parkour:tick",
     "block:tick",
-    "challenges:tick"
+    "challenges:tick",
+    "main:regionguard"
 ]
 }

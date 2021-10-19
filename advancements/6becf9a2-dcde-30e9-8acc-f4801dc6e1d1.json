@@ -335,6 +335,12 @@
     },
     "done": true
   },
+  "challenges:general": {
+    "criteria": {
+      "requirement": "2021-10-15 18:34:49 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2021-07-19 14:20:24 +0700"
@@ -587,6 +593,12 @@
     },
     "done": true
   },
+  "challenges:general/nodie30m": {
+    "criteria": {
+      "impossible": "2021-10-16 09:27:39 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-08-10 10:26:06 +0700"
@@ -692,6 +704,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2021-07-19 14:07:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2021-10-15 17:43:48 +0700"
     },
     "done": true
   },
@@ -905,6 +923,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2021-10-15 18:35:36 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2021-08-13 15:00:50 +0700"
@@ -935,6 +959,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2021-10-15 18:35:36 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2021-08-07 11:04:27 +0700"
@@ -944,6 +974,12 @@
   "minecraft:recipes/decorations/cyan_glazed_terracotta": {
     "criteria": {
       "has_cyan_terracotta": "2021-08-14 12:45:11 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-10-15 17:43:48 +0700"
     },
     "done": true
   },
@@ -1028,6 +1064,12 @@
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2021-08-13 10:53:38 +0700"
+    },
+    "done": true
+  },
+  "challenges:blockbattle": {
+    "criteria": {
+      "requirement": "2021-10-15 18:34:49 +0700"
     },
     "done": true
   },
@@ -1124,6 +1166,12 @@
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs": {
     "criteria": {
       "has_waxed_oxidized_cut_copper": "2021-08-18 09:08:13 +0700"
+    },
+    "done": true
+  },
+  "challenges:root": {
+    "criteria": {
+      "requirement": "2021-10-15 18:34:49 +0700"
     },
     "done": true
   },
@@ -1250,6 +1298,12 @@
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2021-08-13 15:00:50 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2021-10-15 18:35:36 +0700"
     },
     "done": true
   },
@@ -1407,6 +1461,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2021-08-10 10:26:06 +0700"
+    },
+    "done": true
+  },
+  "challenges:omus": {
+    "criteria": {
+      "requirement": "2021-10-15 18:34:49 +0700"
     },
     "done": true
   },
@@ -1957,6 +2017,12 @@
     },
     "done": true
   },
+  "challenges:gspleef": {
+    "criteria": {
+      "requirement": "2021-10-15 18:34:49 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2021-07-19 15:22:03 +0700"
@@ -1997,6 +2063,18 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2021-08-13 09:55:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-10-15 17:43:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2021-10-15 17:43:48 +0700"
     },
     "done": true
   },
@@ -2618,6 +2696,12 @@
     },
     "done": true
   },
+  "challenges:echolocation": {
+    "criteria": {
+      "requirement": "2021-10-15 18:34:49 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2021-07-19 13:12:22 +0700"
@@ -2708,6 +2792,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2021-10-15 17:43:48 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2021-07-19 15:14:29 +0700"
@@ -2735,6 +2825,12 @@
   "minecraft:recipes/decorations/green_candle": {
     "criteria": {
       "has_green_dye": "2021-08-14 13:00:53 +0700"
+    },
+    "done": true
+  },
+  "challenges:general/jump500": {
+    "criteria": {
+      "impossible": "2021-10-16 10:15:04 +0700"
     },
     "done": true
   },
@@ -2834,6 +2930,12 @@
     },
     "done": true
   },
+  "challenges:parcourse": {
+    "criteria": {
+      "requirement": "2021-10-15 18:34:49 +0700"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2021-07-19 15:57:12 +0700"
@@ -2843,6 +2945,12 @@
   "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
     "criteria": {
       "has_netherite_block": "2021-08-07 10:22:06 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2021-10-15 17:43:48 +0700"
     },
     "done": true
   },
@@ -2984,6 +3092,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2021-10-15 17:43:48 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
       "has_end_stone": "2021-07-23 11:58:15 +0700"
@@ -3026,6 +3140,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2021-10-15 17:43:48 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2021-07-19 16:10:36 +0700"
@@ -3041,6 +3161,12 @@
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2021-07-23 11:58:15 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-10-15 17:43:48 +0700"
     },
     "done": true
   },

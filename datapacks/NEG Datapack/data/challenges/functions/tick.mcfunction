@@ -8,7 +8,7 @@ execute as @a at @s if score @s chHealth matches 1 run advancement grant @s only
 
 execute as @a at @s if score @s chDeath matches 100.. run advancement grant @s only challenges:general/die100
 execute as @a at @s if score @s chDeath matches 500.. run advancement grant @s only challenges:general/die500
-execute as @a at @s if score @s chJump matches 500.. run advancement grant @s only challenges:general/jump500
+execute as @a at @s if score @s chJump matches 1000.. run advancement grant @s only challenges:general/jump500
 execute as @a at @s if score @s chJump matches 2000.. run advancement grant @s only challenges:general/jump2000
 execute as @a at @s if score @s chNodie matches 36000.. run advancement grant @s only challenges:general/nodie30m
 execute as @a at @s if score @s chRun matches 2000000.. run advancement grant @s only challenges:general/run20km

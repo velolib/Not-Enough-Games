@@ -11,6 +11,7 @@ bossbar set parkour:title players @a
 
 execute if score parkourStarted parkourStarted matches 1 run effect give @a night_vision 16 255 true
 execute if score parkourStarted parkourStarted matches 1 run effect give @a regeneration 16 255 true
+execute if score parkourStarted parkourStarted matches 1 run effect give @a saturation 16 255 true
 execute if score parkourStarted parkourStarted matches 1 run effect give @a invisibility 16 255 true
 execute if score parkourStarted parkourStarted matches 1 run effect give @a water_breathing 16 255 true
 

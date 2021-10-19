@@ -19,7 +19,7 @@
       "announce_to_chat": true,
       "hidden": false
     },
-    "parent": "challenges:general/jump500",
+    "parent": "challenges:general/jump1000",
     "criteria": {
       "impossible": {
         "trigger": "minecraft:impossible"
