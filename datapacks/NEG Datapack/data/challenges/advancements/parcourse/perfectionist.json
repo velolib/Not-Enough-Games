@@ -2,7 +2,7 @@
     "display": {
       "icon": {
         "item": "minecraft:carrot_on_a_stick",
-        "nbt": "{Enchantments:[{id:\"protection\",lvl:10}]}"
+        "nbt": "{Enchantments:[{id:\"protection\",lvl:10}],CustomModelData:727269}"
       },
       "title": {
         "text": "Perfectionist",
@@ -10,7 +10,7 @@
         "bold": true
       },
       "description": {
-        "text": "Use the carrot on a stick 500 times. Not worth it.",
+        "text": "Restart 500 times",
         "color": "green",
         "bold": false
       },

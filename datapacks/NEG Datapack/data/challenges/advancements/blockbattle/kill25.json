@@ -1,8 +1,8 @@
 {
     "display": {
       "icon": {
-        "item": "minecraft:netherite_sword",
-        "nbt": "{Enchantments:[{id:\"protection\",lvl:1}]}"
+        "item": "minecraft:diamond_sword",
+        "nbt": "{Enchantments:[{id:\"protection\",lvl:1}],CustomModelData:86002}"
       },
       "title": {
         "text": "Unstable",

@@ -19,7 +19,7 @@
       "announce_to_chat": true,
       "hidden": false
     },
-    "parent": "challenges:general/run5km",
+    "parent": "challenges:general/run20km",
     "criteria": {
       "impossible": {
         "trigger": "minecraft:impossible"

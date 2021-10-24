@@ -26,7 +26,7 @@ item replace entity @s[scores={kitID=5}] armor.feet with diamond_boots{Enchantme
 
 item replace entity @s[scores={kitID=6}] armor.feet with golden_boots{Enchantments:[{id:"protection",lvl:4},{id:"binding_curse",lvl:10},{id:"depth_strider",lvl:3}],Unbreakable:1b}
 item replace entity @s[scores={kitID=6}] armor.legs with golden_leggings{Enchantments:[{id:"protection",lvl:4},{id:"binding_curse",lvl:10}],Unbreakable:1b}
-item replace entity @s[scores={kitID=6}] armor.chest with iron_chestplate{Enchantments:[{id:"protection",lvl:2},{id:"binding_curse",lvl:10}],Unbreakable:1b}
+item replace entity @s[scores={kitID=6}] armor.chest with iron_chestplate{Enchantments:[{id:"protection",lvl:3},{id:"binding_curse",lvl:10}],Unbreakable:1b}
 
 item replace entity @s[scores={kitID=7}] armor.chest with diamond_chestplate{Enchantments:[{id:"protection",lvl:3},{id:"binding_curse",lvl:10}],Unbreakable:true}
 
@@ -47,13 +47,15 @@ item replace entity @s[scores={kitID=8}] armor.head with minecraft:player_head{E
 ## Melee
 item replace entity @s hotbar.0 with diamond_sword{Enchantments:[{id:"sharpness",lvl:2}],Unbreakable:true}
 
-item replace entity @s[scores={kitID=2}] hotbar.0 with diamond_sword{Enchantments:[{id:"unbreaking",lvl:2}],Unbreakable:true}
+item replace entity @s[scores={kitID=1}] hotbar.0 with diamond_sword{Enchantments:[{id:"sharpness",lvl:2}],Unbreakable:true,CustomModelData:86002,display:{Name:'{"text":"The Ender","italic": false,"color": "aqua"}'}}
 
-item replace entity @s[scores={kitID=4}] hotbar.0 with iron_axe{Enchantments:[{id:"efficiency",lvl:2}],Unbreakable:true}
+item replace entity @s[scores={kitID=2}] hotbar.0 with diamond_sword{Enchantments:[{id:"unbreaking",lvl:2}],Unbreakable:true,CustomModelData:86001,display:{Name:'{"text":"Turtle Blade","italic": false,"color": "aqua"}'}}
 
-item replace entity @s[scores={kitID=6}] hotbar.0 with netherite_axe{Enchantments:[{id:"sharpness",lvl:5},{id:"efficiency",lvl:5}],Unbreakable:true}
+item replace entity @s[scores={kitID=4}] hotbar.0 with iron_axe{Enchantments:[{id:"efficiency",lvl:2}],Unbreakable:true,CustomModelData:87001,display:{Name:'{"text":"Iron Battleaxe","italic": false,"color": "aqua"}'}}
 
-item replace entity @s[scores={kitID=7}] hotbar.0 with iron_sword{Enchantments:[{id:"sharpness",lvl:3}],Unbreakable:true}
+item replace entity @s[scores={kitID=6}] hotbar.0 with netherite_axe{Enchantments:[{id:"sharpness",lvl:5},{id:"efficiency",lvl:5}],Unbreakable:true,CustomModelData:88001,display:{Name:'{"text":"Netherite Hammer","italic": false,"color": "aqua"}'}}
+
+item replace entity @s[scores={kitID=7}] hotbar.0 with iron_sword{Enchantments:[{id:"sharpness",lvl:3}],Unbreakable:true,CustomModelData:89001,display:{Name:'{"text":"Spectre","italic": false,"color": "aqua"}'}}
 
 item replace entity @s[scores={kitID=8}] hotbar.0 with iron_sword{Enchantments:[{id:"sharpness",lvl:3}],Unbreakable:true}
 
@@ -103,4 +105,3 @@ item replace entity @s inventory.5 with spectral_arrow 64
 item replace entity @s inventory.6 with spectral_arrow 64
 item replace entity @s inventory.7 with spectral_arrow 64
 item replace entity @s inventory.8 with spectral_arrow 64
-

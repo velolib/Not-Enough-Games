@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-10-24 07:52:24 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2021-06-29 18:57:29 +0700"
@@ -116,6 +122,18 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane": {
     "criteria": {
       "has_glass": "2021-08-03 06:16:12 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-10-24 07:52:24 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-10-24 07:52:24 +0700"
     },
     "done": true
   },
@@ -197,6 +215,12 @@
     },
     "done": true
   },
+  "challenges:gspleef": {
+    "criteria": {
+      "requirement": "2021-10-24 07:52:25 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2021-06-29 18:57:29 +0700"
@@ -239,6 +263,12 @@
     },
     "done": true
   },
+  "challenges:general": {
+    "criteria": {
+      "requirement": "2021-10-24 07:52:25 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2021-06-30 10:22:45 +0700"
@@ -248,6 +278,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2021-06-30 10:04:52 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2021-10-24 07:52:24 +0700"
     },
     "done": true
   },
@@ -341,6 +377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-10-24 07:52:24 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2021-06-30 09:24:51 +0700"
@@ -380,6 +422,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2021-06-30 09:17:53 +0700"
+    },
+    "done": true
+  },
+  "challenges:general/nodie30m": {
+    "criteria": {
+      "impossible": "2021-10-24 07:52:25 +0700"
     },
     "done": true
   },
@@ -443,6 +491,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-10-24 07:52:24 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2021-10-24 07:52:24 +0700"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2021-08-02 20:14:18 +0700"
@@ -490,6 +550,12 @@
       "has_planks": "2021-06-30 11:21:07 +0700"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2021-10-24 08:13:56 +0700"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
@@ -539,6 +605,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-10-24 07:52:24 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-10-24 07:52:24 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2021-06-30 11:21:07 +0700"
@@ -560,6 +638,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab": {
     "criteria": {
       "has_deepslate_bricks": "2021-06-30 10:23:24 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2021-10-24 07:52:24 +0700"
     },
     "done": true
   },
@@ -593,6 +677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-10-24 07:52:24 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2021-06-29 19:02:34 +0700"
@@ -611,9 +701,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2021-10-24 07:52:24 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2021-06-29 19:02:34 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-10-24 07:52:24 +0700"
     },
     "done": true
   },
@@ -719,9 +821,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2021-10-24 07:52:24 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2021-06-29 18:57:26 +0700"
+    },
+    "done": true
+  },
+  "challenges:echolocation": {
+    "criteria": {
+      "requirement": "2021-10-24 07:52:25 +0700"
+    },
+    "done": true
+  },
+  "challenges:blockbattle": {
+    "criteria": {
+      "requirement": "2021-10-24 07:52:25 +0700"
     },
     "done": true
   },
@@ -803,6 +923,12 @@
     },
     "done": true
   },
+  "challenges:root": {
+    "criteria": {
+      "requirement": "2021-10-24 07:52:25 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2021-06-30 10:22:45 +0700"
@@ -824,6 +950,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2021-06-29 19:02:34 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-10-24 07:52:24 +0700"
     },
     "done": true
   },
@@ -857,6 +989,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-10-24 07:52:24 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2021-06-30 09:16:31 +0700"
@@ -872,6 +1010,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2021-06-30 09:24:51 +0700"
+    },
+    "done": true
+  },
+  "challenges:parcourse": {
+    "criteria": {
+      "requirement": "2021-10-24 07:52:25 +0700"
     },
     "done": true
   },
@@ -947,6 +1091,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2021-10-24 08:13:56 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2021-06-29 19:02:34 +0700"
@@ -968,6 +1118,18 @@
   "minecraft:adventure/honey_block_slide": {
     "criteria": {
       "honey_block_slide": "2021-06-30 11:19:47 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-10-24 07:52:24 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2021-10-24 07:53:17 +0700"
     },
     "done": true
   },
@@ -1010,6 +1172,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2021-06-29 19:02:34 +0700"
+    },
+    "done": true
+  },
+  "challenges:omus": {
+    "criteria": {
+      "requirement": "2021-10-24 07:52:25 +0700"
     },
     "done": true
   },
@@ -1058,6 +1226,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-06-30 09:16:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2021-10-24 07:52:24 +0700"
     },
     "done": true
   },
@@ -1133,6 +1307,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-10-24 07:52:24 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2021-06-30 09:24:51 +0700"
@@ -1167,6 +1347,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2021-06-30 10:23:24 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-10-24 07:52:24 +0700"
     },
     "done": true
   },
@@ -1212,6 +1398,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-10-24 07:52:24 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2021-06-30 09:28:18 +0700"
@@ -1221,6 +1413,12 @@
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_red_dye": "2021-06-30 09:33:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-10-24 07:52:24 +0700"
     },
     "done": true
   },
