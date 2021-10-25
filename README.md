@@ -1,7 +1,6 @@
 <p align="center"> 
-  <img src="https://github.com/velolib/Not-Enough-Games/blob/main/images/logos/altgif.gif?raw=true" alt="Not Enough Games Logo" width="480" height="480">
+  <img src="https://github.com/velolib/Not-Enough-Games/blob/main/images/screenshots/Neghires.png?raw=true" alt="Not Enough Games Logo">
 </p>
-<h1 align="center"> Not Enough Games </h1>
 <h3 align="center"> Minecraft Minigames by velolib </h3>  
 
 
