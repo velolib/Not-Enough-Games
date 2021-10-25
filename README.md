@@ -56,6 +56,8 @@ Minecraft Team Deathmatch with classes. Teams are teleported into a kit selectio
 4. When there is a clear winner, stop the game and teleport all players into the lobby before starting another one
 ```
 /function block:stop
+```
+```
 /function main:spawn
 ```
 
@@ -73,6 +75,8 @@ Simple Minecraft parkour course. First to finish wins the game.
 3. Once your desired time limit is up, stop the game and teleport all players into the lobby
 ```
 /function parkour:stop
+```
+```
 /function main:spawn
 ```
 
@@ -90,11 +94,15 @@ Minecraft Spleef but the gravity flips every 30 seconds. Last one standing wins.
 3. Once the winning criteria has been met, stop the game and teleport all players into the lobby
 ```
 /function gspleef:stop
+```
+```
 /function spleef:start
 ```
 3. Once the winning criteria has been met, stop the game and teleport all players into the lobby
 ```
 /function spleef:stop
+```
+```
 /function main:spawn
 ```
 
@@ -112,6 +120,8 @@ Minecraft Sumo but every time you deal damage a knockback weapon cycles through 
 3. Once the winning criteria has been met, stop the game and teleport all players into the lobby
 ```
 /function omus:stop
+```
+```
 /function main:spawn
 ```
 
@@ -129,6 +139,8 @@ Sound-based PvP one in the chamber where you can barely see the environment arou
 3. Once the winning criteria has been met, stop the game and teleport all players into the lobby
 ```
 /function echoloc:stop
+```
+```
 /function main:spawn
 ```
 <p align="center">
