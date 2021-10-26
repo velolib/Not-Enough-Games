@@ -1,0 +1,7 @@
+tellraw @a ["",{"text": "\u00A7m                                                                                ","color": "gold"}]
+tellraw @a ["",{"text":"                       NEG ","color": "gold","bold": true},{"text": "/","color": "gray"},{"text":" Settings","color": "#D525FC","bold": false}]
+tellraw @a ["",{"text": "\u00A7m                                                                                ","color": "gold"}]
+tellraw @a ["",{"text": "Fight to the death with a selection of 8 different kits that give you different advantages and disadvantages, all while using different map mechanics to get an edge over your opponents."}]
+tellraw @a ["",{"text": "\u00A7m","color": "white"}]
+tellraw @a ["",{"text": "Good luck ☺","color": "white"}]
+tellraw @a ["",{"text": "\u00A7m                                                                                ","color": "gold"}]

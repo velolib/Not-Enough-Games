@@ -77,6 +77,14 @@ scoreboard players set 9 number 9
 scoreboard players set 8 number 8
 scoreboard players set 1 number 1
 
+# Settings
+scoreboard objectives add setMusic dummy
+scoreboard objectives add setNightvis dummy
+scoreboard objectives add setSmart dummy
+scoreboard objectives add setDisabled dummy
+scoreboard objectives add setKillSfx dummy
+
+
 # Scoring
 scoreboard objectives add ep dummy {"text": "Event Points","bold": true}
 
