@@ -1,4 +1,12 @@
-tellraw @a ["",{"text":"---------------------------------------------","bold":true,"color":"gold"},{"text":"\n"},{"text":"\n"},{"text":"                       Gravity Spleef","bold":true,"color":"gold"},{"text":""},{"text":"\n"},{"text":"\n"},{"text":"     It's spleef, but the gravity changes every 30 seconds!"},{"text":"\n"},{"text":"                 I hope you're not easily disoriented..."},{"text":"\n"},{"text":"\n"},{"text":"---------------------------------------------","bold":true,"color":"gold"}]
+tellraw @a ["",{"text": "\u00A7m                                                                                ","color": "gold"}]
+tellraw @a ["",{"text":"                    NEG ","color": "gold","bold": true},{"text": "/","color": "gray"},{"text":" Gravity Spleef","color": "gold","bold": false}]
+tellraw @a ["",{"text": "\u00A7m                                                                                ","color": "gold"}]
+tellraw @a ["",{"text": "Spleef but the gravity inverts every 30 seconds. That's it, no other strings attached, just have fun."}]
+tellraw @a ["",{"text": "\u00A7m","color": "white"}]
+tellraw @a ["",{"text": "Don't get disoriented ☺","color": "white"}]
+tellraw @a ["",{"text": "\u00A7m                                                                                ","color": "gold"}]
+
+
 execute as @a at @s run playsound minecraft:block.stone_button.click_on master @s
 scoreboard players set spleefGravity spleefGravity 0
 scoreboard players set gravityIdent gravityIdent 0

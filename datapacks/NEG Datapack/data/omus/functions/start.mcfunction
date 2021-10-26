@@ -1,4 +1,11 @@
-tellraw @a [{"text": "---------------------------------------------","bold": true,"color": "gold"},{"text": "\n"},{"text":"\n"},{"text": "                            Omus","color": "blue","bold": true},{"text":"\n"},{"text":"\n"},{"text": "     Sumo but your weapon location is randomized every hit.                                 Check your hotbar.","color": "white","bold": false},{"text": "\n"},{"text": "\n"},{"text": "---------------------------------------------","bold": true,"color": "gold"}]
+tellraw @a ["",{"text": "\u00A7m                                                                                ","color": "gold"}]
+tellraw @a ["",{"text":"                         NEG ","color": "gold","bold": true},{"text": "/","color": "gray"},{"text":" Omus","color": "blue","bold": false}]
+tellraw @a ["",{"text": "\u00A7m                                                                                ","color": "gold"}]
+tellraw @a ["",{"text": "Knock your enemies off platforms while rapidly switching your hotbar slot to switch to your weapon."}]
+tellraw @a ["",{"text": "\u00A7m","color": "white"}]
+tellraw @a ["",{"text": "123456789 ☻","color": "white"}]
+tellraw @a ["",{"text": "\u00A7m                                                                                ","color": "gold"}]
+
 execute as @a at @s run playsound minecraft:block.stone_button.click_on master @s
 gamemode adventure @a
 
