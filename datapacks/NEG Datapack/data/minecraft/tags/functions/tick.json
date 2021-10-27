@@ -8,6 +8,7 @@
     "challenges:tick",
     "main:regionguard",
     "main:tick",
-    "music:parkour/celeste_summit/tick"
+    "music:parkour/celeste_summit/tick",
+    "music:block/celeste_mirror/tick"
 ]
 }
