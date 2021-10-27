@@ -82,7 +82,6 @@ scoreboard objectives add setMusic trigger
 scoreboard objectives add setNightvis trigger
 scoreboard objectives add setSmart trigger
 scoreboard objectives add setDisabled trigger
-scoreboard objectives add setKillSfx trigger
 scoreboard objectives add setNausea trigger
 
 # Scoring
