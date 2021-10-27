@@ -6,6 +6,7 @@
     "parkour:tick",
     "block:tick",
     "challenges:tick",
-    "main:regionguard"
+    "main:regionguard",
+    "main:tick"
 ]
 }

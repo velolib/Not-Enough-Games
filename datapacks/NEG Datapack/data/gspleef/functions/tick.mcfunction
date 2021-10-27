@@ -7,6 +7,7 @@ execute if score spleefStarted spleefStarted matches 1 run bossbar set spleef:gr
 execute if score spleefStarted spleefStarted matches 1 run bossbar set spleef:gravity players @a
 execute if score spleefStarted spleefStarted matches 0 run bossbar set spleef:gravity visible false
 execute if score spleefStarted spleefStarted matches 1 run clear @a snow_block
+execute as @a at @s[gamemode=adventure] if score spleefStarted spleefStarted matches 1 if score @s setNausea matches 1.. run effect give @s nausea 2 255 true
 bossbar set spleef:gravity style progress
 bossbar set spleef:gravity color yellow
 bossbar set spleef:gravity max 600 

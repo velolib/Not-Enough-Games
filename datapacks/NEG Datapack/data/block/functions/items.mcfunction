@@ -79,6 +79,8 @@ item replace entity @s hotbar.2 with golden_carrot 64
 
 item replace entity @s hotbar.3 with golden_apple 6
 
+item replace entity @s[scores={kitID=2}] hotbar.3 with golden_apple 3
+
 item replace entity @s[scores={kitID=3}] hotbar.3 with golden_apple 4
 
 item replace entity @s[scores={kitID=6}] hotbar.3 with golden_apple 8
