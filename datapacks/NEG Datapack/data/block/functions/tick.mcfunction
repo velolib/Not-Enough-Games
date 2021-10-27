@@ -11,7 +11,7 @@ execute as @a at @s[scores={kitID=2},gamemode=adventure,predicate=!block:player_
 execute as @a at @s[gamemode=adventure] if score blockStart blockStart matches 1 if score @s blockDeath >= 1 number run function block:death 
 execute as @a at @s[gamemode=adventure] if score blockStart blockStart matches 1 if score @s setNausea matches 1.. run effect give @s nausea 2 255 true
 
-execute as @a at @s[gamemode=adventure] if score blockStart blockStart matches 1 run execute as @e[type=spectral_arrow] run data merge entity @e[type=spectral_arrow,limit=1,sort=nearest] {PierceLevel:1b}
+execute as @a at @s[gamemode=adventure] if score blockStart blockStart matches 1 run execute as @e[type=spectral_arrow] run data merge entity @e[type=spectral_arrow,limit=1,sort=nearest] {PierceLevel:0b}
 
 bossbar set block:title style progress
 bossbar set block:title color white

@@ -1,13 +1,13 @@
-tellraw @a ["",{"text": "\u00A7m                                                                                ","color": "gold"}]
-tellraw @a ["",{"text":"                    NEG ","color": "gold","bold": true},{"text": "/","color": "gray"},{"text":" Gravity Spleef","color": "gold","bold": false}]
-tellraw @a ["",{"text": "\u00A7m                                                                                ","color": "gold"}]
-tellraw @a ["",{"text": "Spleef but the gravity inverts every 30 seconds. That's it, no other strings attached, just have fun."}]
-tellraw @a ["",{"text": "\u00A7m","color": "white"}]
-tellraw @a ["",{"text": "Don't get disoriented ☺","color": "white"}]
-tellraw @a ["",{"text": "\u00A7m                                                                                ","color": "gold"}]
+tellraw @a[scores={setSmart=0}] ["",{"text": "\u00A7m                                                                                ","color": "gold"}]
+tellraw @a[scores={setSmart=0}] ["",{"text":"                    NEG ","color": "gold","bold": true},{"text": "/","color": "gray"},{"text":" Gravity Spleef","color": "gold","bold": false}]
+tellraw @a[scores={setSmart=0}] ["",{"text": "\u00A7m                                                                                ","color": "gold"}]
+tellraw @a[scores={setSmart=0}] ["",{"text": "Spleef but the gravity inverts every 30 seconds. That's it, no other strings attached, just have fun."}]
+tellraw @a[scores={setSmart=0}] ["",{"text": "\u00A7m","color": "white"}]
+tellraw @a[scores={setSmart=0}] ["",{"text": "Don't get disoriented ☺","color": "white"}]
+tellraw @a[scores={setSmart=0}] ["",{"text": "\u00A7m                                                                                ","color": "gold"}]
 
 
-execute as @a at @s run playsound minecraft:block.stone_button.click_on master @s
+execute as @a[scores={setSmart=0}] at @s run playsound minecraft:block.stone_button.click_on master @s
 scoreboard players set spleefGravity spleefGravity 0
 scoreboard players set gravityIdent gravityIdent 0
 scoreboard players set spleefGravity spleefGravity 0
