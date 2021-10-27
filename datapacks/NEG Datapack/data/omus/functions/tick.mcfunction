@@ -13,3 +13,4 @@ bossbar set omus:title value 1
 bossbar set omus:title players @a
 execute if score omusStarted omusStarted matches 1 run bossbar set omus:title visible true
 execute if score omusStarted omusStarted matches 0 run bossbar set omus:title visible false
+execute as @a at @s[gamemode=adventure] if score omusStarted omusStarted matches 1 if score @s setNausea matches 1.. run effect give @s nausea 2 255 true

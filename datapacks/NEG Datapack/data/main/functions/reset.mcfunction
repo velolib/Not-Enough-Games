@@ -1,0 +1,6 @@
+scoreboard objectives remove setMusic
+scoreboard objectives remove setNightvis
+scoreboard objectives remove setSmart
+scoreboard objectives remove setDisabled
+scoreboard objectives remove setKillSfx
+scoreboard objectives remove setNausea
