@@ -9,10 +9,12 @@ bossbar set parkour:title max 1
 bossbar set parkour:title value 1 
 bossbar set parkour:title players @a
 
-execute if score parkourStarted parkourStarted matches 1 run effect give @a night_vision 16 255 true
+execute if score parkourStarted parkourStarted matches 1 run effect give @a[scores={setNightvis=0}] night_vision 16 255 true
 execute if score parkourStarted parkourStarted matches 1 run effect give @a regeneration 16 255 true
+execute if score parkourStarted parkourStarted matches 1 run effect give @a saturation 16 255 true
 execute if score parkourStarted parkourStarted matches 1 run effect give @a invisibility 16 255 true
 execute if score parkourStarted parkourStarted matches 1 run effect give @a water_breathing 16 255 true
+execute as @a at @s[gamemode=adventure] if score parkourStarted parkourStarted matches 1 if score @s setNausea matches 1.. run effect give @s nausea 2 255 true
 
 execute as @a[gamemode=adventure] at @s if score parkourStarted parkourStarted matches 1 if block ~ ~-1 ~ dried_kelp_block run spawnpoint @s ~ ~ ~
 execute as @a[gamemode=adventure] at @s if score parkourStarted parkourStarted matches 1 if block ~ ~ ~ lava run kill @s

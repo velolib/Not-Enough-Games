@@ -5,6 +5,7 @@ execute as @a[gamemode=adventure] at @s if score echolocStarted echolocStarted m
 execute as @a at @s if score echolocStarted echolocStarted matches 1 run execute if score @s echolocDeath matches 1 run function echoloc:spec
 execute if score echolocStarted echolocStarted matches 1 run effect give @a[gamemode=adventure] blindness 10 255 true
 execute if score echolocStarted echolocStarted matches 1 run effect give @a[gamemode=adventure] saturation 10 255 true
+execute as @a at @s[gamemode=adventure] if score echolocStarted echolocStarted matches 1 if score @s setNausea matches 1.. run effect give @s nausea 2 255 true
 execute as @a at @s if score echolocStarted echolocStarted matches 1 run title @s actionbar [{"text": "Players Left: ","color": "gold","bold": true},{"selector":"@a[gamemode=adventure]","bold": false}]
 bossbar set echoloc:title style progress
 bossbar set echoloc:title color pink

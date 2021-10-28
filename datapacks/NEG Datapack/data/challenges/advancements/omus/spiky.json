@@ -1,0 +1,52 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:pufferfish"
+      },
+      "title": {
+        "text": "Spiky!",
+        "color": "gold",
+        "bold": true
+      },
+      "description": {
+        "text": "Hit someone with the pufferfish",
+        "color": "green",
+        "bold": false
+      },
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "challenges:omus",
+    "criteria": {
+      "impossible": {
+        "trigger": "minecraft:player_hurt_entity",
+        "conditions": {
+          "player": [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "equipment": {
+                  "mainhand": {
+                    "items": [
+                      "minecraft:pufferfish"
+                    ]
+                  }
+                }
+              }
+            }
+          ],
+          "entity": {
+            "type": "minecraft:player"
+          }
+        }
+      }
+    },
+    "requirements": [
+      [
+        "Condition"
+      ]
+    ]
+  }
+  

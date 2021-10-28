@@ -1,0 +1,34 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:carrot_on_a_stick",
+        "nbt": "{Enchantments:[{id:\"protection\",lvl:10}],CustomModelData:727269}"
+      },
+      "title": {
+        "text": "Perfectionist",
+        "color": "yellow",
+        "bold": true
+      },
+      "description": {
+        "text": "Restart 500 times",
+        "color": "green",
+        "bold": false
+      },
+      "frame": "challenge",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "challenges:parcourse",
+    "criteria": {
+      "impossible": {
+        "trigger": "minecraft:impossible"
+      }
+    },
+    "requirements": [
+      [
+        "impossible"
+      ]
+    ]
+  }
+  

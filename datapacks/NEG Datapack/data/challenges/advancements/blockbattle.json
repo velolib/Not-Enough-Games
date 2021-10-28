@@ -1,0 +1,27 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:diamond_sword"
+      },
+      "title": {
+        "text": "Block Battle",
+        "color": "white",
+        "bold": true
+      },
+      "description": {
+        "text": "Fight to the death!",
+        "color": "green"
+      },
+      "frame": "goal",
+      "show_toast": false,
+      "announce_to_chat": false,
+      "hidden": false
+    },
+    "parent": "challenges:root",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:tick"
+      }
+    }
+  }
+  

@@ -25,6 +25,11 @@
 </p>
 
 ## ⬇️ Installation
+Required Programs:
+- Minecraft
+- File compression program (7zip, WinRAR, WinZip)
+
+Installation:
 1. Go to your Minecraft directory. (Press ❖ Win + R and type in %appdata%)
 2. Go to `.minecraft\saves`.
 3. Download the `.zip` from the [Releases](https://github.com/velolib/Not-Enough-Games/releases) tab.

@@ -1,0 +1,13 @@
+scoreboard objectives add chKills playerKillCount
+scoreboard objectives add chHealth health
+scoreboard objectives add chCrossbow minecraft.used:crossbow
+scoreboard objectives add chFood food
+scoreboard objectives add chBell minecraft.custom:player_kills
+scoreboard objectives add chDeath deathCount
+scoreboard objectives add chJump minecraft.custom:jump
+scoreboard objectives add chNodie minecraft.custom:time_since_death
+scoreboard objectives add chRun minecraft.custom:sprint_one_cm
+scoreboard objectives add chShiftdist minecraft.custom:crouch_one_cm
+scoreboard objectives add chBlocked minecraft.custom:damage_blocked_by_shield
+scoreboard objectives add chSnow minecraft.mined:snow_block
+scoreboard objectives add chCarrot minecraft.used:carrot_on_a_stick

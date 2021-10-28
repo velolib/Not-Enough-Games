@@ -38,3 +38,4 @@ execute if score @s hotbarRandom matches 2 if score @s damageCount >= 1 number r
 execute if score @s hotbarRandom matches 2 if score @s damageCount >= 1 number run item replace entity @s hotbar.8 with pufferfish{display:{Name:'{"text":"big boy 1","color":"gold","italic":true}'},HideFlags:5,Enchantments:[{id:"minecraft:knockback",lvl:1s}]}
 
 execute if score @s[nbt={Inventory:[{id:"minecraft:pufferfish"}]},scores={damageCount=0..50}] damageCount >= 1 number run scoreboard players set @s damageCount 0
+execute as @a at @s if score @s damageCount matches 1.. run scoreboard players set @s damageCount 0

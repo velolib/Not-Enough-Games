@@ -1,0 +1,34 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:skeleton_skull",
+        "nbt": "{Enchantments:[{id:\"protection\",lvl:10}]}"
+      },
+      "title": {
+        "text": "Reaped",
+        "color": "aqua",
+        "bold": true
+      },
+      "description": {
+        "text": "Die 100 times",
+        "color": "green",
+        "bold": false
+      },
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "challenges:general",
+    "criteria": {
+      "impossible": {
+        "trigger": "minecraft:impossible"
+      }
+    },
+    "requirements": [
+      [
+        "impossible"
+      ]
+    ]
+  }
+  

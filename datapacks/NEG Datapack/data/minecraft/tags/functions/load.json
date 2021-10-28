@@ -5,6 +5,9 @@
     "omus:init",
     "gspleef:init",
     "parkour:init",
-    "block:init"
+    "block:init",
+    "challenges:init",
+    "music:parkour/celeste_summit/load",
+    "music:block/celeste_mirror/load"
 ]
 }

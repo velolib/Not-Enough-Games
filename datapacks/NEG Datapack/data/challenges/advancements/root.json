@@ -1,0 +1,27 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:enchanted_golden_apple"
+      },
+      "title": {
+        "text": "Not Enough Games!",
+        "color": "gold",
+        "bold": true
+      },
+      "description": {
+        "text": "NEG Advancements Datapack",
+        "color": "green"
+      },
+      "background": "minecraft:textures/block/netherite_block.png",
+      "frame": "challenge",
+      "show_toast": false,
+      "announce_to_chat": false,
+      "hidden": false
+    },
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:tick"
+      }
+    }
+  }
+  

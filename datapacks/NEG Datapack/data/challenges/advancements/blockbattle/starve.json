@@ -1,0 +1,32 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:cooked_beef"
+      },
+      "title": {
+        "text": "Anorexia",
+        "color": "dark_aqua",
+        "bold": true
+      },
+      "description": {
+        "text": "Starve yourself",
+        "color": "green",
+        "bold": false
+      },
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "challenges:blockbattle",
+    "criteria": {
+      "impossible": {
+        "trigger": "minecraft:impossible"
+      }
+    },
+    "requirements": [
+      [
+        "impossible"
+      ]
+    ]
+  }
+  

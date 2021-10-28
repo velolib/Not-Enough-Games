@@ -1,0 +1,33 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:totem_of_undying",
+        "nbt": "{Enchantments:[{id:\"protection\",lvl:1}]}"
+      },
+      "title": {
+        "text": "Don't stop fighting",
+        "color": "blue",
+        "bold": true
+      },
+      "description": {
+        "text": "Get to half a heart of health",
+        "color": "green",
+        "bold": false
+      },
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "challenges:blockbattle",
+    "criteria": {
+      "impossible": {
+        "trigger": "minecraft:impossible"
+      }
+    },
+    "requirements": [
+      [
+        "impossible"
+      ]
+    ]
+  }
+  

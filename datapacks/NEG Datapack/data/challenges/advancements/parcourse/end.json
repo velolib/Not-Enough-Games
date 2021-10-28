@@ -1,0 +1,55 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:end_stone",
+        "nbt": "{Enchantments:[{id:\"protection\",lvl:10}]}"
+      },
+      "title": {
+        "text": "The End",
+        "color": "light_purple",
+        "bold": true
+      },
+      "description": {
+        "text": "Reach the final stage",
+        "color": "green",
+        "bold": false
+      },
+      "frame": "challenge",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "challenges:parcourse",
+    "criteria": {
+      "location": {
+        "trigger": "minecraft:location",
+        "conditions": {
+          "player": {
+            "type": "minecraft:player"
+          },
+          "location": {
+            "position": {
+              "x": {
+                "min": 287,
+                "max": 289
+              },
+              "y": {
+                "min": 127,
+                "max": 129
+              },
+              "z": {
+                "min": 1457,
+                "max": 1459
+              }
+            }
+          }
+        }
+      }
+    },
+    "requirements": [
+      [
+        "location"
+      ]
+    ]
+  }
+  

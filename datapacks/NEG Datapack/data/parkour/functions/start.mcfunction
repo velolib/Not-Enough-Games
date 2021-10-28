@@ -21,5 +21,11 @@ schedule function main:countdown/1 19s
 schedule function main:countdown/go 20s
 schedule function parkour:started 20s
 
-tellraw @a [{"text": "---------------------------------------------","bold": true,"color": "gold"},{"text": "\n"},{"text":"\n"},{"text": "                       Parcourse","color": "red","bold": true},{"text":"\n"},{"text":"\n"},{"text": "       Simple, good-old parkour that will make you rage!                                      Try not to quit.","color": "white","bold": false},{"text": "\n"},{"text": "\n"},{"text": "---------------------------------------------","bold": true,"color": "gold"}]
-execute as @a at @s run playsound minecraft:block.stone_button.click_on master @s
+tellraw @a[scores={setSmart=0}] ["",{"text": "\u00A7m                                                                                ","color": "gold"}]
+tellraw @a[scores={setSmart=0}] ["",{"text":"                     NEG ","color": "gold","bold": true},{"text": "/","color": "gray"},{"text":" Parcourse","color": "red","bold": false}]
+tellraw @a[scores={setSmart=0}] ["",{"text": "\u00A7m                                                                                ","color": "gold"}]
+tellraw @a[scores={setSmart=0}] ["",{"text": "Simple Minecraft parkour that may or may not make you rage. Go through 8 different Minecraft biomes and finish fast."}]
+tellraw @a[scores={setSmart=0}] ["",{"text": "\u00A7m","color": "white"}]
+tellraw @a[scores={setSmart=0}] ["",{"text": "Try not to rage ♣","color": "white"}]
+tellraw @a[scores={setSmart=0}] ["",{"text": "\u00A7m                                                                                ","color": "gold"}]
+execute as @a[scores={setSmart=0}] at @s run playsound minecraft:block.stone_button.click_on master @s

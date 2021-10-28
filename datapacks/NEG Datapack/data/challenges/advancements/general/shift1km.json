@@ -1,0 +1,34 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:diamond_leggings",
+        "nbt": "{Enchantments:[{id:\"protection\",lvl:10}]}"
+      },
+      "title": {
+        "text": "Turtle",
+        "color": "green",
+        "bold": true
+      },
+      "description": {
+        "text": "Crouch 1000 blocks",
+        "color": "green",
+        "bold": false
+      },
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "challenges:general",
+    "criteria": {
+      "impossible": {
+        "trigger": "minecraft:impossible"
+      }
+    },
+    "requirements": [
+      [
+        "impossible"
+      ]
+    ]
+  }
+  

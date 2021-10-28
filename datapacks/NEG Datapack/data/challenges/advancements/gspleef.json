@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:netherite_shovel"
+    },
+    "title": {
+      "text": "Gravity Spleef",
+      "color": "gold",
+      "bold": true
+    },
+    "description": {
+      "text": "Disorientating Madness",
+      "color": "green"
+    },
+    "frame": "goal",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "challenges:root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}
