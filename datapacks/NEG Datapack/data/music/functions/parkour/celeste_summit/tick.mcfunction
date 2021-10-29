@@ -1,2 +1,0 @@
-execute as @a[tag=nbs_celestesum] run scoreboard players operation @s nbs_celestesum += speed nbs_celestesum
-execute as @a[tag=nbs_celestesum] at @s run function music:parkour/celeste_summit/tree/0_16383

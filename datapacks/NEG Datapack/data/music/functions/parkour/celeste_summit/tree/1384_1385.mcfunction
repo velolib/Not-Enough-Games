@@ -1,1 +1,0 @@
-execute as @s[scores={nbs_celestesum=110720..110840,nbs_celestesum_t=..1383}] run function music:parkour/celeste_summit/notes/1384

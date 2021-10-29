@@ -1,1 +1,0 @@
-execute as @s[scores={nbs_celestemir=242240..242360,nbs_celestemir_t=..3027}] run function music:block/celeste_mirror/notes/3028

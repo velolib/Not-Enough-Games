@@ -1,2 +1,0 @@
-execute as @s[scores={nbs_celestesum=253440..253800}] run function music:parkour/celeste_summit/tree/3168_3171
-execute as @s[scores={nbs_celestesum=253760..254200}] run function music:parkour/celeste_summit/tree/3172_3175
