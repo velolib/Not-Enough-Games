@@ -2,11 +2,12 @@ execute if score spleefStarted spleefStarted matches 1 run effect give @a resist
 execute if score spleefStarted spleefStarted matches 1 run effect give @a saturation 5 255 true
 execute if score spleefStarted spleefStarted matches 1 run effect give @a jump_boost 2 255 true
 execute if score spleefStarted spleefStarted matches 1 run effect give @a glowing 2 255 true
+execute if score spleefStarted spleefStarted matches 1 run effect give @a[scores={setNightvis=0}] night_vision 2 255 true
 execute if score spleefStarted spleefStarted matches 1 run function gspleef:gravity/gravity
 execute if score spleefStarted spleefStarted matches 1 run bossbar set spleef:gravity visible true
 execute if score spleefStarted spleefStarted matches 1 run bossbar set spleef:gravity players @a
 execute if score spleefStarted spleefStarted matches 0 run bossbar set spleef:gravity visible false
-execute if score spleefStarted spleefStarted matches 1 run clear @a snow_block
+execute if score spleefStarted spleefStarted matches 1 run clear @a snowball
 execute as @a at @s[gamemode=adventure] if score spleefStarted spleefStarted matches 1 if score @s setNausea matches 1.. run effect give @s nausea 2 255 true
 bossbar set spleef:gravity style progress
 bossbar set spleef:gravity color yellow

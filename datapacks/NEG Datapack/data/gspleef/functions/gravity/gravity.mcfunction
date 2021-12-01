@@ -5,8 +5,6 @@ execute store result bossbar spleef:gravity value run scoreboard players get spl
 execute if score gravityIdent gravityIdent matches 0 run effect clear @a levitation
 execute if score gravityIdent gravityIdent matches 1 run effect give @a levitation 5 11 true
 
-execute as @a[gamemode=adventure] at @s if block ~ ~-1 ~ black_concrete run function gspleef:gravity/death/down
-execute as @a[gamemode=adventure] at @s if block ~ ~-1 ~ white_concrete run function gspleef:gravity/death/down
+execute as @a[gamemode=adventure] at @s anchored feet if block ~ ~-1 ~ blue_concrete run function gspleef:gravity/death/down
 
-execute as @a[gamemode=adventure] at @s if block ~ ~2 ~ black_concrete run function gspleef:gravity/death/up
-execute as @a[gamemode=adventure] at @s if block ~ ~2 ~ white_concrete run function gspleef:gravity/death/up
+execute as @a[gamemode=adventure] at @s anchored eyes if block ~ ~1 ~ white_wool run function gspleef:gravity/death/up

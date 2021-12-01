@@ -161,18 +161,6 @@ Sound-based PvP one in the chamber where you can barely see the environment arou
   <img src="https://raw.githubusercontent.com/velolib/Not-Enough-Games/main/images/lines/rainbow.png" alt="Line"/>
 </p>
 
-## ✏️ Contributing
-Current contributors:
-- [WN3S](https://www.instagram.com/aby.cccc/) (Builder)
-- speedwave37 (Builder)
-- [Outrowed](https://github.com/outrowed) (Coding)
-
-If you'd like to contribute do at your own risk and start a pull request!
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/velolib/Not-Enough-Games/main/images/lines/rainbow.png" alt="Line"/>
-</p>
-
 ## 📞 Contact
 You can contact me at:
 - Discord: velo#9631

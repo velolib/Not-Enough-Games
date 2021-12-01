@@ -13,6 +13,8 @@ execute as @a at @s[gamemode=adventure] if score blockStart blockStart matches 1
 
 execute as @a at @s[gamemode=adventure] if score blockStart blockStart matches 1 run execute as @e[type=spectral_arrow] run data merge entity @e[type=spectral_arrow,limit=1,sort=nearest] {PierceLevel:0b}
 
+execute as @a at @s[gamemode=adventure] if score blockStart blockStart matches 1 run spawnpoint @s -795 140 1057
+
 bossbar set block:title style progress
 bossbar set block:title color white
 bossbar set block:title max 1

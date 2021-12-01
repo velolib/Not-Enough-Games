@@ -5,6 +5,7 @@ tellraw @a[scores={setSmart=0}] ["",{"text": "Spleef but the gravity inverts eve
 tellraw @a[scores={setSmart=0}] ["",{"text": "\u00A7m","color": "white"}]
 tellraw @a[scores={setSmart=0}] ["",{"text": "Don't get disoriented ☺","color": "white"}]
 tellraw @a[scores={setSmart=0}] ["",{"text": "\u00A7m                                                                                ","color": "gold"}]
+clear @a
 
 
 execute as @a[scores={setSmart=0}] at @s run playsound minecraft:block.stone_button.click_on master @s

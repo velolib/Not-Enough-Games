@@ -84,6 +84,14 @@ scoreboard objectives add setSmart trigger
 scoreboard objectives add setDisabled trigger
 scoreboard objectives add setNausea trigger
 
+scoreboard objectives add modMusic trigger
+scoreboard objectives add modNightvis trigger
+scoreboard objectives add modSmart trigger
+scoreboard objectives add modDisabled trigger
+scoreboard objectives add modNausea trigger
+
+scoreboard objectives add setFungus minecraft.used:warped_fungus_on_a_stick
+
 # Scoring
 scoreboard objectives add ep dummy {"text": "Event Points","bold": true}
 
