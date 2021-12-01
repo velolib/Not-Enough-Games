@@ -6,6 +6,7 @@ tellraw @a[scores={setSmart=0}] ["",{"text": "A constant sound is also played wh
 tellraw @a[scores={setSmart=0}] ["",{"text": "\u00A7m","color": "white"}]
 tellraw @a[scores={setSmart=0}] ["",{"text": "Wear headphones ☺","color": "white"}]
 tellraw @a[scores={setSmart=0}] ["",{"text": "\u00A7m                                                                                ","color": "gold"}]
+clear @a
 
 
 execute as @a[scores={setSmart=0}] at @s run playsound minecraft:block.stone_button.click_on master @s

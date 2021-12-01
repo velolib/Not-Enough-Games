@@ -20,3 +20,5 @@ bossbar add block:title [{"text": "Block Battle","bold": true,"color": "white"},
 
 scoreboard objectives add blockDeath deathCount
 scoreboard players set @a blockDeath 0
+worldborder center 0 0
+worldborder set 60000000

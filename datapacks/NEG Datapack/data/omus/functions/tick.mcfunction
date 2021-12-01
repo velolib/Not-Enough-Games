@@ -1,4 +1,4 @@
-execute if score omusStarted omusStarted matches 1 run execute as @a at @s run function omus:hotbar
+execute as @a at @s if score omusStarted omusStarted matches 1 run function omus:hotbar
 execute as @a at @s if score omusStarted omusStarted matches 1 run effect give @s saturation 5 255 true
 execute as @a at @s if score omusStarted omusStarted matches 1 run effect give @s regeneration 5 255 true
 execute as @a at @s if score omusStarted omusStarted matches 1 run effect give @s night_vision 10 255 true

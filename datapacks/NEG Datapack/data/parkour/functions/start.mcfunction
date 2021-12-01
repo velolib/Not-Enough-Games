@@ -11,6 +11,8 @@ scoreboard players set @a parkourCarrot 0
 clear @a
 gamerule fallDamage false
 effect give @a resistance 30 255 true
+clear @a
+
 execute as @a at @s run attribute @s generic.knockback_resistance base set 100000
 
 schedule function main:countdown/5 15s

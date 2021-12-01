@@ -1,6 +1,6 @@
 # Spawn
-execute as @a[x=87,y=4,z=87,dx=-158,dy=80,dz=-158] run effect give @s regeneration 1 255 true
-execute as @a[x=87,y=4,z=87,dx=-158,dy=80,dz=-158] run effect give @s saturation 1 255 true
+execute as @a[x=135,y=127,z=-115,dx=-249,dy=-115,dz=214] run effect give @s regeneration 1 255 true
+execute as @a[x=135,y=127,z=-115,dx=-249,dy=-115,dz=214] run effect give @s saturation 1 255 true
 
 # Block Battle
 execute as @a[x=-1181,y=121,z=1068,dx=24,dy=20,dz=-24] run effect give @s regeneration 1 255 true
